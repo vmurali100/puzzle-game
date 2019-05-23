@@ -1,0 +1,13 @@
+#main {
+  width: 600px;
+  display: block;
+}
+div {
+  display: inline-block;
+  width: 161px;
+  height: 161px;
+}
+img {
+  width: 100%;
+  height: 100%;
+}
